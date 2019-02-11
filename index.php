@@ -1,9 +1,5 @@
-<?php
+<?<?php 
 
+echo "teste";
 
-echo "olá mundo456";
-
-echo "olá udemi";
-
-
-?>
+ ?>
